@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 631,
-    "timeWeek": 631,
-    "timeMonth": 631,
-    "timeYear": 631,
+    "time": 652,
+    "timeDay": 652,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 939,
-    "timeWeek": 939,
-    "timeMonth": 939,
-    "timeYear": 939,
+    "time": 1050,
+    "timeDay": 1050,
+    "timeWeek": 1050,
+    "timeMonth": 1050,
+    "timeYear": 1050,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 640,
-    "timeWeek": 640,
-    "timeMonth": 640,
-    "timeYear": 640,
+    "time": 668,
+    "timeDay": 668,
+    "timeWeek": 668,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 616,
-    "timeWeek": 616,
-    "timeMonth": 616,
-    "timeYear": 616,
+    "time": 627,
+    "timeDay": 627,
+    "timeWeek": 627,
+    "timeMonth": 627,
+    "timeYear": 627,
     "dailyMinutesDown": {}
   },
   {
@@ -88,5 +88,25 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Broken Site 1",
+    "url": "https://fooobar.mrcieu.ac.uk",
+    "icon": "https://favicons.githubusercontent.com/fooobar.mrcieu.ac.uk",
+    "slug": "test-broken-site-1",
+    "status": "down",
+    "uptime": "18.25%",
+    "uptimeDay": "18.25%",
+    "uptimeWeek": "18.25%",
+    "uptimeMonth": "18.25%",
+    "uptimeYear": "18.25%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-16": 0
+    }
   }
 ]
