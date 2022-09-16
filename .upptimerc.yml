@@ -10,10 +10,6 @@ sites:
     url: https://asq.epigraphdb.org
   - name: asq api
     url: https://asq-api.epigraphdb.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Test Broken Site 1
-    url: https://fooobar.mrcieu.ac.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
