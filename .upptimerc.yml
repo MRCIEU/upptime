@@ -1,6 +1,5 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: mrcieu
+repo: upptime
 
 sites:
   - name: epigraphdb frontend
@@ -13,6 +12,8 @@ sites:
     url: https://asq-api.epigraphdb.org
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Test Broken Site 1
+    url: https://fooobar.mrcieu.ac.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
