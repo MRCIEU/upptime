@@ -6,6 +6,8 @@ sites:
     url: https://epigraphdb.org
   - name: epigraphdb api
     url: https://api.epigraphdb.org
+  - name: epigraphdb docs
+    url: https://docs.epigraphdb.org
   - name: asq
     url: https://asq.epigraphdb.org
   - name: asq api
