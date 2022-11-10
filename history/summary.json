@@ -22,19 +22,19 @@
     "url": "https://api.epigraphdb.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.epigraphdb.org.ico",
     "slug": "epigraphdb-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 966,
-    "timeDay": 998,
-    "timeWeek": 890,
-    "timeMonth": 942,
-    "timeYear": 966,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 962,
+    "timeDay": 863,
+    "timeWeek": 870,
+    "timeMonth": 935,
+    "timeYear": 962,
     "dailyMinutesDown": {
-      "2022-11-10": 0
+      "2022-11-10": 11
     }
   },
   {
