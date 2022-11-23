@@ -11,9 +11,9 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.79%",
     "time": 561,
-    "timeDay": 493,
-    "timeWeek": 592,
-    "timeMonth": 574,
+    "timeDay": 520,
+    "timeWeek": 594,
+    "timeMonth": 576,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2022-11-22": 200
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
-    "time": 934,
-    "timeDay": 983,
-    "timeWeek": 949,
+    "time": 931,
+    "timeDay": 704,
+    "timeWeek": 952,
     "timeMonth": 890,
-    "timeYear": 934,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2022-11-11": 36,
       "2022-11-10": 11
@@ -51,11 +51,11 @@
     "uptimeWeek": "98.01%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.74%",
-    "time": 925,
-    "timeDay": 734,
-    "timeWeek": 893,
-    "timeMonth": 933,
-    "timeYear": 925,
+    "time": 928,
+    "timeDay": 843,
+    "timeWeek": 927,
+    "timeMonth": 943,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2022-11-22": 200
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "98.01%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.79%",
-    "time": 590,
-    "timeDay": 398,
-    "timeWeek": 512,
-    "timeMonth": 552,
-    "timeYear": 590,
+    "time": 589,
+    "timeDay": 461,
+    "timeWeek": 502,
+    "timeMonth": 554,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2022-11-22": 200
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 471,
-    "timeWeek": 516,
+    "time": 583,
+    "timeDay": 362,
+    "timeWeek": 502,
     "timeMonth": 545,
-    "timeYear": 586,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   },
   {
@@ -104,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/annotator.epigraphdb.org.ico",
     "slug": "annotator-web-app",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "98.14%",
     "uptimeDay": "86.09%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "97.95%",
-    "time": 512,
-    "timeDay": 364,
-    "timeWeek": 512,
-    "timeMonth": 512,
-    "timeYear": 512,
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "98.14%",
+    "time": 508,
+    "timeDay": 399,
+    "timeWeek": 492,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2022-11-22": 200
     }
