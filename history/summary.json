@@ -12,8 +12,8 @@
     "uptimeYear": "99.82%",
     "time": 564,
     "timeDay": 530,
-    "timeWeek": 546,
-    "timeMonth": 570,
+    "timeWeek": 544,
+    "timeMonth": 572,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2022-11-22": 200
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
-    "time": 929,
-    "timeDay": 701,
-    "timeWeek": 885,
-    "timeMonth": 850,
-    "timeYear": 929,
+    "time": 930,
+    "timeDay": 1029,
+    "timeWeek": 891,
+    "timeMonth": 861,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2022-11-11": 36,
       "2022-11-10": 11
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.78%",
-    "time": 925,
-    "timeDay": 695,
-    "timeWeek": 857,
-    "timeMonth": 897,
-    "timeYear": 925,
+    "time": 920,
+    "timeDay": 597,
+    "timeWeek": 839,
+    "timeMonth": 893,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2022-11-22": 200
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.82%",
-    "time": 581,
-    "timeDay": 349,
-    "timeWeek": 495,
+    "time": 580,
+    "timeDay": 462,
+    "timeWeek": 494,
     "timeMonth": 537,
-    "timeYear": 581,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2022-11-22": 200
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 465,
-    "timeWeek": 524,
-    "timeMonth": 520,
-    "timeYear": 579,
+    "time": 578,
+    "timeDay": 459,
+    "timeWeek": 512,
+    "timeMonth": 523,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -104,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/annotator.epigraphdb.org.ico",
     "slug": "annotator-web-app",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
-    "time": 532,
-    "timeDay": 345,
-    "timeWeek": 517,
-    "timeMonth": 532,
-    "timeYear": 532,
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 528,
+    "timeDay": 460,
+    "timeWeek": 531,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2022-11-22": 200
     }
