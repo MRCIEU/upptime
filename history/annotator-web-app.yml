@@ -1,7 +1,7 @@
 url: https://annotator.epigraphdb.org
-status: down
-code: 503
-responseTime: 534
-lastUpdated: 2023-02-07T04:27:21.718Z
+status: up
+code: 200
+responseTime: 470
+lastUpdated: 2023-02-07T04:37:09.378Z
 startTime: Tue Nov 15 2022 12:42:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
