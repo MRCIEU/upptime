@@ -1,7 +1,7 @@
 url: https://api.epigraphdb.org
-status: down
-code: 503
-responseTime: 1052
-lastUpdated: 2024-03-12T05:54:25.226Z
+status: up
+code: 200
+responseTime: 755
+lastUpdated: 2024-03-12T06:04:41.292Z
 startTime: 2022-09-16T13:53:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
