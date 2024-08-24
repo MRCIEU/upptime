@@ -125,9 +125,9 @@
     "url": "https://annotator.epigraphdb.org",
     "icon": "https://icons.duckduckgo.com/ip3/annotator.epigraphdb.org.ico",
     "slug": "annotator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,6 +137,7 @@
     "timeMonth": 532,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2024-08-24": 0,
       "2024-04-16": 9,
       "2024-04-10": 6,
       "2024-03-12": 10
