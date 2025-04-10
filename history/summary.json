@@ -6,13 +6,13 @@
     "slug": "epigraphdb-frontend",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.91%",
-    "time": 598,
-    "timeDay": 621,
-    "timeWeek": 675,
+    "time": 599,
+    "timeDay": 741,
+    "timeWeek": 686,
     "timeMonth": 796,
     "timeYear": 609,
     "dailyMinutesDown": {
@@ -25,8 +25,7 @@
       "2024-10-04": 10,
       "2024-07-02": 11,
       "2024-05-07": 10,
-      "2024-04-16": 9,
-      "2024-04-10": 8
+      "2024-04-16": 9
     }
   },
   {
@@ -41,10 +40,10 @@
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.91%",
     "time": 934,
-    "timeDay": 1292,
-    "timeWeek": 1168,
-    "timeMonth": 1041,
-    "timeYear": 928,
+    "timeDay": 1093,
+    "timeWeek": 1185,
+    "timeMonth": 1038,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-03-22": 337,
       "2025-03-19": 24,
@@ -54,8 +53,7 @@
       "2024-10-04": 9,
       "2024-07-02": 11,
       "2024-05-07": 10,
-      "2024-04-16": 35,
-      "2024-04-10": 8
+      "2024-04-16": 35
     }
   },
   {
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.92%",
-    "time": 961,
-    "timeDay": 1516,
-    "timeWeek": 1281,
-    "timeMonth": 1128,
-    "timeYear": 976,
+    "time": 962,
+    "timeDay": 1103,
+    "timeWeek": 1240,
+    "timeMonth": 1125,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2025-03-22": 336,
       "2025-03-19": 23,
@@ -83,8 +81,7 @@
       "2024-10-04": 9,
       "2024-07-02": 10,
       "2024-05-07": 9,
-      "2024-04-16": 9,
-      "2024-04-10": 7
+      "2024-04-16": 9
     }
   },
   {
@@ -99,9 +96,9 @@
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.92%",
     "time": 551,
-    "timeDay": 578,
-    "timeWeek": 665,
-    "timeMonth": 585,
+    "timeDay": 647,
+    "timeWeek": 663,
+    "timeMonth": 582,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2025-03-22": 336,
@@ -110,8 +107,7 @@
       "2024-11-05": 11,
       "2024-07-02": 10,
       "2024-05-07": 9,
-      "2024-04-16": 9,
-      "2024-04-10": 7
+      "2024-04-16": 9
     }
   },
   {
@@ -125,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.92%",
-    "time": 559,
-    "timeDay": 709,
-    "timeWeek": 667,
-    "timeMonth": 624,
-    "timeYear": 561,
+    "time": 560,
+    "timeDay": 741,
+    "timeWeek": 679,
+    "timeMonth": 625,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2025-03-22": 335,
       "2025-03-19": 14,
@@ -137,8 +133,7 @@
       "2024-12-25": 9,
       "2024-11-05": 11,
       "2024-05-07": 8,
-      "2024-04-16": 9,
-      "2024-04-10": 6
+      "2024-04-16": 9
     }
   },
   {
@@ -147,18 +142,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/annotator.epigraphdb.org.ico",
     "slug": "annotator-web-app",
     "status": "down",
-    "uptime": "74.85%",
+    "uptime": "74.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.16%",
+    "uptimeYear": "39.89%",
     "time": 544,
-    "timeDay": 572,
-    "timeWeek": 660,
+    "timeDay": 738,
+    "timeWeek": 672,
     "timeMonth": 568,
-    "timeYear": 547,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2025-04-09": 11,
+      "2025-04-10": 11,
+      "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -379,8 +375,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 553,
       "2024-08-24": 9,
-      "2024-04-16": 9,
-      "2024-04-10": 6
+      "2024-04-16": 9
     }
   }
 ]
