@@ -12,6 +12,10 @@ sites:
     url: https://asq.epigraphdb.org
   - name: asq api
     url: https://asq-api.epigraphdb.org
+  - name: mr-kg
+    url: https://epigraphdb.org/mr-kg
+  - name: mr-kg api
+    url: https://epigraphdb.org/mr-kg/api
   - name: puer api
     url: http://3.10.234.74:12306/
 
