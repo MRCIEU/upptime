@@ -1,7 +1,7 @@
 url: https://asq-api.epigraphdb.org
-status: down
-code: 502
-responseTime: 705
-lastUpdated: 2026-02-28T08:36:09.874Z
+status: up
+code: 200
+responseTime: 714
+lastUpdated: 2026-02-28T08:50:10.340Z
 startTime: 2022-09-16T13:53:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
