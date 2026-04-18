@@ -127,9 +127,9 @@
     "url": "https://epigraphdb.org/mr-kg",
     "icon": "https://icons.duckduckgo.com/ip3/epigraphdb.org.ico",
     "slug": "mr-kg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -139,6 +139,7 @@
     "timeMonth": 598,
     "timeYear": 611,
     "dailyMinutesDown": {
+      "2026-04-18": 0,
       "2026-01-27": 99
     }
   },
