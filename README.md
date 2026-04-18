@@ -1,1 +1,1 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟧 Partial outage**
